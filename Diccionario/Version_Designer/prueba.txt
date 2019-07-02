@@ -1,0 +1,5 @@
+perro : cuadrupedo
+gato : felino
+oso : grisli
+conejo : gigante
+loro : pepa

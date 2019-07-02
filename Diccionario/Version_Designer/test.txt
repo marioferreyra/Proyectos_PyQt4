@@ -1,0 +1,6 @@
+caniche : Rocco
+bestia : Otto
+tortuga : Frankling
+dalmata : Ciro
+river : campeon
+boca : bostero
